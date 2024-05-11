@@ -183,7 +183,7 @@ networkx==3.2.1
 nltk==3.8.1
 notebook==7.0.6
 notebook_shim==0.2.3
-numba==0.58.1
+#numba==0.58.1
 numpy==1.26.1
 oauthlib==3.2.2
 olefile==0.47
@@ -214,7 +214,7 @@ pikepdf==8.10.1
 Pillow==10.1.0
 pinecone-client==2.2.4
 # Editable install with no version control (pirate_speak==0.0.1)
--e /Users/gregorykamradt/Desktop/gk/Projects/LangChain/LangServ/my-app/packages/pirate_speak
+#-e /Users/gregorykamradt/Desktop/gk/Projects/LangChain/LangServ/my-app/packages/pirate_speak
 platformdirs==3.11.0
 pooch==1.8.0
 portalocker==2.8.2
